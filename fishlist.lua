@@ -142,4 +142,4 @@ return {
     [198] = {Name = "Herring Fish", Tier = "Common"},
     [199] = {Name = "Lake Sturgeon", Tier = "Legendary"},
     [200] = {Name = "Orca", Tier = "Secret"},
-}
+} 
